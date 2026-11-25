@@ -17,6 +17,9 @@ a{
     font-weight: bold;
     font-size: 1.5rem;
 }
+a:hover{
+    color:rgb(5,122,200);
+}
 .tagline{
     font-style: italic;
     color: rgb(5, 92, 126);
