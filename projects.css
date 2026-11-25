@@ -42,6 +42,8 @@ img{
         margin-right: 5%;
         font-weight: bold;
     }
+a:hover{
+    color:rgb(5,120,188);}
     .projects{
         width: 93%;
         height: 100%;
